@@ -1,15 +1,20 @@
 ---
 layout: articles
-title: Articles - Grid (Small Size)
+title: Welcome
+mode: immersive
+header:
+  theme: normal
+article_header:
+  type: cover
+  image:
+    src: /banner.jpg
 articles:
-  data_source: site.sample_page
   type: grid
-  size: sm
+  data_source: site.posts
+  show_excerpt: true
+  show_title: false
+  # show_readmore: true
+  show_info: true
+  show_cover: true
+  cover_size: lg
 ---
-
-
-<nft-card
-contractAddress="0x1d20a51f088492a0f1c57f047a9e30c9ab5c07ea"
-tokenId="4715">
-</nft-card>
-<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>

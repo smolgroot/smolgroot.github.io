@@ -66,7 +66,7 @@ paths:
   root    : # title link url, "/" (default)
   home    : # home layout url, "/" (default)
   archive : # "/archive.html" (default)
-  rss     : # "/feed.xml" (default)
+  # rss     : # "/feed.xml" (default)
   test    : /test # "/feed.xml" (default)
 
 
@@ -221,7 +221,7 @@ defaults:
 ## => Plugins
 ##############################
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
