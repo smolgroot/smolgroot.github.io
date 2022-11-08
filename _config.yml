@@ -23,7 +23,7 @@ url     : https://smolgroot.github.io/# the base hostname & protocol for your si
 baseurl : # does not include hostname
 title   : Crypto Sumi-e
 description: > # this means to ignore newlines until "Language & timezone"
-  welcome to my fridge mfers
+  welcome 
 
 
 ## => Language and Timezone
