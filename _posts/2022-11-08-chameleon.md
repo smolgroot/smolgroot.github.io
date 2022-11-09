@@ -2,7 +2,7 @@
 layout: article
 title: Curious Chameleon
 tags: Reptile
-cover: assets/images/covers/_thumbnail-chameleon.jpg
+cover: /assets/images/covers/thumbnail-chameleon.jpg
 lightbox: true
 sharing: true
 ---

@@ -2,7 +2,7 @@
 layout: article
 title: Curious jellyfish
 tags: Cnidaria
-cover: assets/images/covers/_thumbnail-jellyfish.jpg
+cover: /assets/images/covers/thumbnail-jellyfish.jpg
 lightbox: true
 sharing: true
 ---

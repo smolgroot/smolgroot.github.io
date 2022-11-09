@@ -2,7 +2,7 @@
 layout: article
 title: Curious hermit-crab
 tags: Mollusca
-cover: assets/images/covers/_thumbnail-hermit-crab.jpg
+cover: /assets/images/covers/thumbnail-hermit-crab.jpg
 lightbox: true
 sharing: true
 ---
