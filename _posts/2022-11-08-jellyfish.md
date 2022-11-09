@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Curious jellyfish
+title: Lost Jellyfish
 tags: Cnidaria
 cover: /assets/images/covers/thumbnail-jellyfish.jpg
 lightbox: true

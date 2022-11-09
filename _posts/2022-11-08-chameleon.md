@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Curious Chameleon
+title: Watchful Chameleon
 tags: Reptile
 cover: /assets/images/covers/thumbnail-chameleon.jpg
 lightbox: true

@@ -29,7 +29,7 @@ key: page-about
 **#CryptoSumiE** is an **ON-GOING** project.
 
 It is deeply inspired by the crypto community, where trading is all about emotion.
-The collection starts in the late 2022 bear market, and aims to bring some zen vibes to chart candles lovers.
+The collection starts during the 2022 bear market, and aims to bring some zen vibes to chart candles lovers.
 
 With a very simple aestetic, Crypto-Sumi-E use a basic color palette, in the respect of the japanese sumi-e painting movement.
 
@@ -50,9 +50,14 @@ They will be released with successul waves.
 
 To be informed about the next drop waves, please consider follow me on [Twitter](https://twitter/rootshe11) and join the project [Discord server](https://discord.io)
 
-## Why should i collect one of these NFTs?
+## Why should I collect one of these NFTs?
 
-First of all, because you like the art, or you want to support my work as a CT artist. 
-The project is all about the art, building a community around it. 
-
+Mainly because you like the art, or you want to support my work as a CT artist. 
 I do not promise anything else. Just enjoy and vibe.
+
+
+## What is sumi-e
+
+- Japanese art movement
+- Starts originally in China (date?)
+- Ink painting, discipline, martial-art, gracious
