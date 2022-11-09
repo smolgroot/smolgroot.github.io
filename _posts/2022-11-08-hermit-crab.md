@@ -17,7 +17,7 @@ View NFT on [Opensea](#){:.button.button--primary.button--pill}
     <div class="card__header">
       <h4>Description</h4>
     </div>
-    <p>Some description</p>
+    <p>Look the market. Observe and learn.</p>
   </div>
 </div>
 

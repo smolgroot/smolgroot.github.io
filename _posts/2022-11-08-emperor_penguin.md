@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Welcoming Bear
-tags: Mammal
-cover: /assets/images/covers/thumbnail-bear.jpg
+title: Protective Emperor-Penguin
+tags: Bird
+cover: /assets/images/covers/thumbnail-emperor_penguin.jpg
 lightbox: true
 sharing: true
 ---
@@ -11,13 +11,13 @@ View NFT on [Opensea](#){:.button.button--primary.button--pill}
 
 <div class="card mt-3">
   <div class="card__image">
-    <img src="/assets/images/hd/bear.jpg"/>
+    <img src="/assets/images/hd/emperor_penguin.jpg"/>
   </div>
   <div class="card__content">
     <div class="card__header">
       <h4>Description</h4>
     </div>
-    <p>You should not place a long</p>
+    <p>Some description</p>
   </div>
 </div>
 
