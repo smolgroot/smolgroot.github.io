@@ -39,7 +39,7 @@ All pieces are individually painted with zen attitude.
 
 ## Where can I buy a piece from the collection?
 
-You can find all listed and available pieces on [Opensea](https://opensea.io/collection/crypto-sumi-e)
+You can find all listed and available pieces on [Opensea](https://opensea.io/collection/crypto-sumie)
 
 ## How many pieces the collection counts?
 
