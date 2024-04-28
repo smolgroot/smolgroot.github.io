@@ -1,6 +1,6 @@
 header:
-  - title: Explore
-    url: /explore
+  # - title: Explore
+  #   url: /explore
   - title: Categories
     url: /archive.html
 
